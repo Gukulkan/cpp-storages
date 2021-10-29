@@ -1,0 +1,91 @@
+70065009800290076000770017800900605006150004005600700486900615840048001100550046007074008000150028500493006841800474001600210200208800759644003293001100211100211800912263700200018009910076700213200150018009358007635001829001800170078902007798600209100330022008812700988290039840024001800953009540014740002000190096970013978002481110023002000900340089633002857943002300190012131800905790034341629007100560079600700007100560082720073160086006200808750080043005900370080766008172600Array with 1000 elements add begin is 4600
+Array with 1000 elements add end is 7500
+Array with 1000 elements search existing element is 7500
+Array with 1000 elements search non-existing element is 2800
+Array with 1000 elements sort is 83700
+Array with 10000 elements add begin is 18700
+Array with 10000 elements add end is 4600
+Array with 10000 elements search existing element is 800
+Array with 10000 elements search non-existing element is 38500
+Array with 10000 elements sort is 633700
+Array with 100000 elements add begin is 400
+Array with 100000 elements add end is 3600
+Array with 100000 elements search existing element is 900
+Array with 100000 elements search non-existing element is 364900
+Array with 100000 elements sort is 6257700
+Vector with 1000 elements add begin is 4400
+Vector with 1000 elements add end is 900
+Vector with 1000 elements search existing element is 4200
+Vector with 1000 elements search non-existing element is 4000
+Vector with 1000 elements sort is 444400
+Vector with 10000 elements add begin is 6600
+Vector with 10000 elements add end is 900
+Vector with 10000 elements search existing element is 22500
+Vector with 10000 elements search non-existing element is 22600
+Vector with 10000 elements sort is 6198500
+Vector with 100000 elements add begin is 50700
+Vector with 100000 elements add end is 1000
+Vector with 100000 elements search existing element is 209500
+Vector with 100000 elements search non-existing element is 208100
+Vector with 100000 elements sort is 75605700
+Vector with 1000000 elements add begin is 321700
+Vector with 1000000 elements add end is 1100
+Vector with 1000000 elements search existing element is 264600
+Vector with 1000000 elements search non-existing element is 247000
+Vector with 1000000 elements sort is 925117100
+List with 1000 elements add begin is 2000
+List with 1000 elements add end is 2300
+List with 1000 elements search existing element is 211900
+List with 1000 elements search non-existing element is 201400
+List with 1000 elements sort is 259200
+List with 10000 elements add begin is 1600
+List with 10000 elements add end is 1800
+List with 10000 elements search existing element is 1223300
+List with 10000 elements search non-existing element is 779700
+List with 10000 elements sort is 179800
+List with 100000 elements add begin is 1600
+List with 100000 elements add end is 1600
+List with 100000 elements search existing element is 7869600
+List with 100000 elements search non-existing element is 7779500
+List with 100000 elements sort is 185700
+List with 1000000 elements add begin is 2500
+List with 1000000 elements add end is 2200
+List with 1000000 elements search existing element is 8035300
+List with 1000000 elements search non-existing element is 7817400
+List with 1000000 elements sort is 185200
+Deque with 1000 elements add begin is 2500
+Deque with 1000 elements add end is 1800
+Deque with 1000 elements search existing element is 96800
+Deque with 1000 elements search non-existing element is 89100
+Deque with 1000 elements sort is 1266600
+Deque with 10000 elements add begin is 1500
+Deque with 10000 elements add end is 1900
+Deque with 10000 elements search existing element is 894300
+Deque with 10000 elements search non-existing element is 861300
+Deque with 10000 elements sort is 22201800
+Deque with 100000 elements add begin is 2100
+Deque with 100000 elements add end is 1900
+Deque with 100000 elements search existing element is 8947000
+Deque with 100000 elements search non-existing element is 8800700
+Deque with 100000 elements sort is 295725400
+Deque with 1000000 elements add begin is 2500
+Deque with 1000000 elements add end is 1900
+Deque with 1000000 elements search existing element is 9052400
+Deque with 1000000 elements search non-existing element is 8913600
+Deque with 1000000 elements sort is 3374783500
+Set with 1000 elements add begin is 7300
+Set with 1000 elements add end is 5600
+Set with 1000 elements search existing element is 85300
+Set with 1000 elements search non-existing element is 72400
+Set with 10000 elements add begin is 7300
+Set with 10000 elements add end is 5600
+Set with 10000 elements search existing element is 814200
+Set with 10000 elements search non-existing element is 763400
+Set with 100000 elements add begin is 8700
+Set with 100000 elements add end is 6200
+Set with 100000 elements search existing element is 8795800
+Set with 100000 elements search non-existing element is 7982600
+Set with 1000000 elements add begin is 5800
+Set with 1000000 elements add end is 4800
+Set with 1000000 elements search existing element is 8494800
+Set with 1000000 elements search non-existing element is 9119900
